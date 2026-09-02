@@ -1,0 +1,7 @@
+# runtime data — never commit
+*.log
+*.csv
+tags/
+thumbs/
+exif-args.txt
+itinerary.json
